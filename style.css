@@ -10,7 +10,7 @@ body {
 
 hr {
   color: red;
-  line-height: 5;
+  height: 5px;
 }
 
 p, ul, span {
