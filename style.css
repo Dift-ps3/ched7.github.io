@@ -7,6 +7,12 @@ body {
   padding-top: 32px;
   padding-bottom: 32px;
 }
+
+hr {
+  color: red;
+  hight: 10px;
+}
+
 p, ul, span {
 
     margin-bottom: 12px;
